@@ -8,17 +8,18 @@ div {
 
 
 #morespecific {
-    background-color: red;
+    
     border: 1px solidcolor black;
 }
 
 .specific {
-    Background-color: grey;
+    
     border: none !important;
 }
 
 p {
-    Background-color: blue;
+    
+    grid-area: span 25px backround color white;
     color: white;
     padding: 5px;
     }
