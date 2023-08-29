@@ -1,0 +1,24 @@
+div {
+    color: blueviolet;
+}
+.bold {
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#morespecific {
+    background-color: red;
+    border: 1px solidcolor black;
+}
+
+.specific {
+    Background-color: grey;
+    border: none !important;
+}
+
+p {
+    Background-color: blue;
+    color: white;
+    padding: 5px;
+    }
