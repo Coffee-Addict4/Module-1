@@ -1,9 +1,11 @@
+
 #grad{
-    Background:linear-gradiant(red, Blue);
+    background: linear-gradient(red, blue);
 }
 
+
 div{
-    font-size:large;
-    border-color: crimson;
+    font-size:xx-large;
+    font-style: crimson;
     color: lightskyblue;
 }

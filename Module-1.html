@@ -4,17 +4,12 @@
     <title>Javascript-TEST</title>
     <link rel="stylesheet" type="text/css" href="stylesheet.css"
 </head>
-<body>
-    //Due to being unable to start from vscode I belive this may not
-    have access to CSS file and therfore cannot implement changes//
-    <Div>
+<body id="grad">
+    <div>
         this is a test.
-    </Div>
-    //Proposed problem with button unfixable
-    button looks for source of date and fails 
-    due to not having access to internet//
+    </div>
     <button type="button"
-            onclick="document.getElementByid('demo').innerHTML = Date()">
+            onclick="document.getElementById('demo').innerHTML = Date();">
         See the date
     </button>
     <p id="demo"></p>
