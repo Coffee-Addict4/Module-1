@@ -1,0 +1,9 @@
+#grad{
+    Background:linear-gradiant(red, Blue);
+}
+
+div{
+    font-size:large;
+    border-color: violet;
+    color: blue;
+}
