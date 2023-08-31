@@ -1,7 +1,11 @@
 
-div{
-    font-size: xx-large;
-}
+ div {
+    color: blue;
+ }
+
+ .bold {
+    font-style: bold;
+ }
 
 #Grad{
    background: steelblue;
