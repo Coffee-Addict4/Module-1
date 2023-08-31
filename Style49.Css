@@ -3,10 +3,10 @@
     color: blue;
  }
 
- .bold {
-    font-style: bold;
+ .italic {
+    font-style: italic;
  }
 
-#Grad{
+#ColorGL{
    background: steelblue;
 }
