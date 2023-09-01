@@ -12,8 +12,9 @@ body ::backdrop{
 }
 
 .Border{
-    height: 888px;
-    position: relative;
+    height: fit-content = innerheight;
+    width: fit-content = innerwidth;
+    position: calc();
     border: 10px solid slategray;
 }
 
